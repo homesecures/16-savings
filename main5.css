@@ -25,11 +25,11 @@ body {
 .text-center { text-align: center;}
 .text-upper {text-transform: uppercase;}
 .img-resp { width: 100%; height:auto;}
-.fs16 { font-size: 16px}
+.fs16 { font-size: 18px}
 .fs24 { font-size: 24px}
 .text-bold { font-weight: bold; ;}
 .inline-block { display: inline-block;}
-.fs16 { font-size: 16px}
+.fs16 { font-size: 18px}
 a, a:hover, a:focus { color: #00b4ff}
 .gap { height: 30px;}
 

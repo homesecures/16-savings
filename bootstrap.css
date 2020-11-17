@@ -901,7 +901,7 @@ html {
 }
 body {
   
-  font-size: 14px;
+  font-size: 18px;
   line-height: 1.42857143;
   color: #333;
   background-color: #fff;
@@ -2349,7 +2349,7 @@ input[type="checkbox"]:focus {
 output {
   display: block;
   padding-top: 7px;
-  font-size: 14px;
+  font-size: 18px;
   line-height: 1.42857143;
   color: #555;
 }
@@ -2358,7 +2358,7 @@ output {
   width: 100%;
   height: 34px;
   padding: 6px 12px;
-  font-size: 14px;
+  font-size: 18px;
   line-height: 1.42857143;
   color: #555;
   background-color: #fff;
@@ -5700,7 +5700,7 @@ button.close {
   max-width: 276px;
   padding: 1px;
   
-  font-size: 14px;
+  font-size: 18px;
   font-weight: normal;
   line-height: 1.42857143;
   text-align: left;
@@ -5729,7 +5729,7 @@ button.close {
 .popover-title {
   padding: 8px 14px;
   margin: 0;
-  font-size: 14px;
+  font-size: 18px;
   background-color: #f7f7f7;
   border-bottom: 1px solid #ebebeb;
   border-radius: 5px 5px 0 0;
